@@ -1,0 +1,13 @@
+/* public/css/styles.css */
+body {
+    background-image: url('../images/Black.jpg');
+    /* You can set other background properties like size, position, etc. here */
+  }
+/* public/css/images.css */
+.container {
+    border-radius: 10px;
+}
+
+.btn {
+    border-radius: 5px;
+}
